@@ -1,0 +1,14 @@
+# WordPress
+wp-config.php
+wp-content/uploads/
+wp-content/cache/
+wp-content/backups/
+wp-content/upgrade/
+wp-content/themes/twentyseventeen/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de configuraciones locales
+.env
